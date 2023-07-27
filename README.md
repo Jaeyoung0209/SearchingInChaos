@@ -1,6 +1,6 @@
 # SearchingInChaos
 My first 3D game made for a 1-week long game jam
-The game is downloadable for windows only here: https://j02.itch.io/searching-in-chaos \br
+The game is downloadable for windows only here: https://j02.itch.io/searching-in-chaos  
 The entire game was made by me including the code, 3D models and their textures, sound effects, etc.
 
 Overall Positives:
