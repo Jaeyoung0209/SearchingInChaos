@@ -3,14 +3,8 @@ My first 3D game made for a 1-week long game jam
 The game is downloadable for windows only here: https://j02.itch.io/searching-in-chaos  
 The entire game was made by me including the code, 3D models and their textures, sound effects, etc.
 
-Overall Positives:
-* Good quality for a 1-week game
-* 3D models look decent
+The game's main mechanic is to pick up and analyze 3D objects.
 
-![Alt text]([https://raw.githubusercontent.com/Jaeyoung0209/SearchingInChaos/master/Brackley's%20Jam%202%20resized.gif])
-  
-Negatives:
-* Difficult to understand the game even with descriptions in the comment section -> Could've added a tutorial
-* Starting screen was rushed. The idea of the door itself is fine as it alerts the users that highlighted objects are interactable
-* No background music
-* Small bugs that could've easily been fixed, such as not blocking out the window above the table
+![Brackley's Jam 2 resized](https://github.com/Jaeyoung0209/SearchingInChaos/assets/112497692/208b469c-28fc-4828-9567-68a4538300a1)
+You can examine the object by using a mouse to certify whether your choice matches the criteria.
+
